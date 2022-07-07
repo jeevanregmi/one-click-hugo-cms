@@ -1,5 +1,5 @@
 ---
-title: "Great TEA with a conscience"
+title: "JEEVAN REGMI PORTFOLIO"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
